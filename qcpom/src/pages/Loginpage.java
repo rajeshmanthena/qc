@@ -9,6 +9,8 @@ import org.openqa.selenium.support.PageFactory;
 import base.TestBase;
 
 public class Loginpage extends TestBase
+
+
 {
 	
 		@FindBy(name="loginRequestBean.userId")
